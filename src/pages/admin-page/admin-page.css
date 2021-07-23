@@ -1,0 +1,8 @@
+.btn__delete{
+    text-align: center;
+}
+
+.btn__delete:hover {
+    color: #bb2d3b;
+    cursor: pointer;
+  }

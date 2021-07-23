@@ -1,0 +1,19 @@
+#basket-card__body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /* background-color: red; */
+}
+
+#basket-card__container {
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+  }
+
+/* #basket-cards__container {
+    display: flex;
+    flex-direction: column;
+  } */
+  
